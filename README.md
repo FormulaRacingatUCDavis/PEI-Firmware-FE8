@@ -1,2 +1,2 @@
-# PEI-Software-FE8
-Power Electronics Interface embedded software 
+# PEI-Firmware-FE8
+Power Electronics Interface embedded firmware 
